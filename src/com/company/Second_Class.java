@@ -7,6 +7,7 @@ public class Second_Class {
         System.out.println("new page second class");
         System.out.println("How are you");
         System.out.println("fine ");
+        System.out.println("failure");
 
 
     }
