@@ -8,6 +8,7 @@ public class Second_Class {
         System.out.println("How are you");
         System.out.println("fine ");
         System.out.println("failure");
+        System.out.println();
 
 
     }
